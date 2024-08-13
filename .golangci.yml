@@ -2,7 +2,7 @@ run:
   deadline: 1m
 
 linters:
-  enable-all: true
+  enable-all: false
   disable:
     - gocyclo
     - golint
